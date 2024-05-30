@@ -1,11 +1,8 @@
-import os
-import sys
 from tkinter import BOTH
 import telebot
 import yfinance as yf
 import os
-import telebot
-import yfinance as yf
+
 
 # Set your Telegram Bot API Key
 API_KEY = 'XYZ'
